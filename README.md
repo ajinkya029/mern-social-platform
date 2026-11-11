@@ -103,7 +103,7 @@ mern-social-platform/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/mern-social-platform.git
+git clone https://github.com/ajinkya029/mern-social-platform.git
 cd mern-social-platform
 ```
 
